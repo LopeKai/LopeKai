@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🤙, I'm Kaique Araújo Lopes</h1>
+<h1 align="center">Kaique Araújo Lopes</h1>
+<!-- Hi 🤙, I'm  -->
 <h3 align="center"> Desenvolvedor Web Front-end</h3>
 <img align="right"  style="width: 320px; height: 300px;" src="https://c.tenor.com/_DOBjnGspYAAAAAd/code-coding.gif" width="570" height="570">
 
