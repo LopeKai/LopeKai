@@ -1,4 +1,6 @@
-<h1 align="center">Kaique Araújo Lopes</h1>
+![LopeKai  - Copia (2)](https://user-images.githubusercontent.com/66790414/169189766-91d1460a-9d04-4b8c-ad78-a7612b8d6bee.png)
+
+<!-- <h1 align="center">Kaique Araújo Lopes</h1> -->
 <!-- Hi 🤙, I'm  -->
 <h3 align="center"> Desenvolvedor Web Front-end</h3>
 <img align="right"  style="width: 320px; height: 300px;" src="https://c.tenor.com/_DOBjnGspYAAAAAd/code-coding.gif" width="570" height="570">
