@@ -1,5 +1,4 @@
 
-<h1 align="center">Kaique Araújo Lopes</h1>
 
 <div> 
   <img align="center" src="https://user-images.githubusercontent.com/66790414/169539817-ba562f79-416c-4bdb-88bf-e33f52cec1ee.png"/> 
