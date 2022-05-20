@@ -1,14 +1,12 @@
-<!-- ![LopeKai  - Copia (2)](https://user-images.githubusercontent.com/66790414/169189766-91d1460a-9d04-4b8c-ad78-a7612b8d6bee.png) -->
 
 <h1 align="center">Kaique Araújo Lopes</h1>
-<h3 align="center"> Desenvolvedor Web Front-end</h3>
-<img align="right"  style="width: 320px; height: 300px;" src="https://c.tenor.com/_DOBjnGspYAAAAAd/code-coding.gif" width="570" height="570">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopekai&label=Profile%20views&color=0e75b6&style=flat" alt="lopekai" /> </p>
+<div> 
+  <img align="center" src="https://user-images.githubusercontent.com/66790414/169537774-2936ba33-6c85-4548-aad7-96731c512751.png" width="100%" height="480"/> 
+</div>
 
-- 🌱 I’m currently learning **ReactJs**/**NextJs**
-
-- 📫 How to reach me **kaiquearaujo246@hotmail.com**
+-   I’m currently learning **ReactJs**/**NextJs**
+-  📫 How to reach me **kaiquearaujo246@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopekai&show_icons=true&locale=en&layout=compact" alt="lopekai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopekai&show_icons=true&locale=en" alt="lopekai" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lopekai&show_icons=true&locale=en" alt="lopekai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopekai&" alt="lopekai" /></p>
