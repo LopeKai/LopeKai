@@ -1,7 +1,7 @@
 
 
 <div> 
-  <img align="center" src="https://user-images.githubusercontent.com/66790414/169539817-ba562f79-416c-4bdb-88bf-e33f52cec1ee.png"/> 
+  <img align="center" src="https://user-images.githubusercontent.com/66790414/169541270-2619d954-cf1e-4a74-9dae-15b0e18c253f.png"/> 
 </div>
 
 -   I’m currently learning **ReactJs**/**NextJs**
