@@ -4,14 +4,12 @@
   <img align="center" src="https://user-images.githubusercontent.com/66790414/169541270-2619d954-cf1e-4a74-9dae-15b0e18c253f.png"/> 
 </div>
 
--   I’m currently learning **ReactJs**/**NextJs**
+-   I’m currently learning **ReactNative**
 -  📫 How to reach me **kaiquearaujo246@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_kaiquelopes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kaiquelopes/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc56hiicifh39qyshu91kreq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc56hiicifh39qyshu91kreq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
