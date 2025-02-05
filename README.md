@@ -3,8 +3,6 @@
 <div> 
   <img align="center" src="https://user-images.githubusercontent.com/66790414/169541270-2619d954-cf1e-4a74-9dae-15b0e18c253f.png"/> 
 </div>
--  How to reach me **kaiquearaujo246@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
