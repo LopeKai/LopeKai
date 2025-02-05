@@ -3,9 +3,7 @@
 <div> 
   <img align="center" src="https://user-images.githubusercontent.com/66790414/169541270-2619d954-cf1e-4a74-9dae-15b0e18c253f.png"/> 
 </div>
-
--   I’m currently learning **ReactNative**
--  📫 How to reach me **kaiquearaujo246@hotmail.com**
+-  How to reach me **kaiquearaujo246@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
